@@ -1,0 +1,7 @@
+utils3 @ git+https://github.com/the-sal/utils3
+requests
+BeautifulSoup4
+lxml
+python-dotenv
+pandas
+numpy
